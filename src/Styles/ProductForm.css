@@ -1,0 +1,40 @@
+ .product-cretae-page{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-color: #d0cdcd;
+    
+
+ }
+.inner-page{
+    align-items: center;
+    width: 60%;
+    border-radius: 10px;
+    background-color: #e5e5e5;
+    border: 1px solid black;
+    box-shadow: 2px 2px 20px 2px black;
+
+}
+.form-control{
+    padding: 10px;
+    border: 1px solid rgb(126, 120, 120);
+    border-radius: 5px;
+    margin-top: 5px;
+    /* background-color: #e5e5e5; */
+
+}
+.form-group{
+    padding: 10px;
+}
+.btn-dark{
+    margin-left: 10px;
+}
+.create-btn{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn-success{
+    width: 200px;
+}
